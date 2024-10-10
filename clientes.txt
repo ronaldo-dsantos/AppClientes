@@ -1,0 +1,1 @@
+[{"Id":1,"Nome":"Ronaldo Domingues","DataNascimento":"1985-09-30","CadastradoEm":"2024-10-09T23:24:54.5241033-03:00","Desconto":20}]
